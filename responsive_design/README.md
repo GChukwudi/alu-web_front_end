@@ -1,0 +1,2 @@
+## Responsive Web Design Project
+Welcome to the Responsive Web Design Project! In this project, I learned the fundamentals of responsive web design and gain the knowledge and skills necessary to create web application that adapt to different screen sizes and devices.
